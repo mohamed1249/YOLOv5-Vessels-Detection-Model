@@ -2,13 +2,6 @@
 
 YOLOv5 is a state-of-the-art object detection model that can detect multiple objects in an image. This README file provides instructions on how to install dependencies, train the model, validate its performance, and run detections on new images using the provided code.
 
-## Code Overview
-
-This repository contains code for training and testing the YOLOv5 model. The main components are:
-
-1. **Training_allImages_cbinNotOpen.ipynb**: A Jupyter notebook for installing dependencies, training the model, and running detections.
-2. **datamanipulation.ipynb**: A Jupyter notebook for preparing and splitting the dataset.
-
 ## Setup
 
 ### Installing Dependencies
